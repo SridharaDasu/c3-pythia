@@ -2,5 +2,7 @@
 *.root
 *~
 .#*
-gamma-gamma.Dct.cc
 *.pcm
+*.so
+gamma-gammaDct.cc
+gamma-gamma
