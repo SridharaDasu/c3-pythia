@@ -1,0 +1,6 @@
+*.log
+*.root
+*~
+.#*
+gamma-gamma.Dct.cc
+*.pcm
